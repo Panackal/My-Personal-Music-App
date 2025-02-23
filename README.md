@@ -4,7 +4,7 @@
 A sleek and modern music streaming web application built with React and Tailwind CSS, inspired by Spotify's design.  
 
 <p align="center">
-  <img src="musico1.png" alt="Music App Screenshot" width="800">
+  <img src="musico2.png" alt="Music App Screenshot" width="800">
 </p>  
 
 ---
@@ -102,5 +102,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - 🎼 [React](https://reactjs.org/) for powering the frontend.  
 
 <p align="center">
-  <img src="musico2.png" alt="Thank You Graphic">
+  <img src="musico1.png" alt="Thank You Graphic">
 </p>  
